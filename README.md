@@ -17,4 +17,6 @@
 
 ### Repos
 
-- [Mongo2Go](https://github.com/Mongo2Go/Mongo2Go)
+- [mgodatagen](https://github.com/feliixx/mgodatagen) - Generates data based on schema
+- [Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mock for Mongo in .NET
+
