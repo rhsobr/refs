@@ -3,10 +3,11 @@ my references
 
 ## Table of Contents
 
-- [Foundations](#foundations)
+- [Blogs](#blogs)
 - [Databases](#databases)
   - [MongoDB](#mongodb)
-- [Blogs](#blogs)
+- [Foundations](#foundations)
+
 
 ## Blogs
 
