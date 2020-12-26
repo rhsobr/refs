@@ -1,5 +1,16 @@
 # refs
+my references
 
+## Table of Contents
+
+- [Foundations](#foundations)
+- [Databases](#databases)
+  - [MongoDB](#mongodb)
+- [Blogs](#blogs)
+
+## Blogs
+
+- [Stay SaaSy](https://staysaasy.com/)
 
 ## Foundations
 
@@ -7,16 +18,17 @@
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [The Twelve-Factor App](https://12factor.net/)
 
-## MongoDB
+## Databases
 
-### Articles
+### MongoDB
+
+#### Articles
 
 - [Design Patterns for MongoDB](https://towardsdatascience.com/design-patterns-for-mongodb-894767315905)
 - [Implementing Event Sourcing and CQRS pattern with MongoDB](https://blog.insiderattack.net/implementing-event-sourcing-and-cqrs-pattern-with-mongodb-66991e7b72be)
 - [Optimizing MongoDB Compound Indexes](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes)
 
-### Repos
+#### Repos
 
 - [mgodatagen](https://github.com/feliixx/mgodatagen) - Generates data based on schema
 - [Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - Mock for Mongo in .NET
-
