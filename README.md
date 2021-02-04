@@ -29,6 +29,7 @@ my references
 - [Design Patterns for MongoDB](https://towardsdatascience.com/design-patterns-for-mongodb-894767315905)
 - [Implementing Event Sourcing and CQRS pattern with MongoDB](https://blog.insiderattack.net/implementing-event-sourcing-and-cqrs-pattern-with-mongodb-66991e7b72be)
 - [Optimizing MongoDB Compound Indexes](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes)
+- [What is the recommended approach towards multi-tenant databases in MongoDB?](https://stackoverflow.com/questions/2748825/what-is-the-recommended-approach-towards-multi-tenant-databases-in-mongodb)
 
 #### Repos
 
