@@ -31,6 +31,7 @@ my references
 - [Optimizing MongoDB Compound Indexes](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes)
 - [What is the recommended approach towards multi-tenant databases in MongoDB?](https://stackoverflow.com/questions/2748825/what-is-the-recommended-approach-towards-multi-tenant-databases-in-mongodb)
 - [Clean MongoDB Indexes](https://medium.com/@Philmod/clean-mongodb-indexes-6066daaeb042)
+- [Massive Number of Collections](https://developer.mongodb.com/article/schema-design-anti-pattern-massive-number-collections/)
 
 #### Repos
 
