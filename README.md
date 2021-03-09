@@ -32,6 +32,7 @@ my references
 - [What is the recommended approach towards multi-tenant databases in MongoDB?](https://stackoverflow.com/questions/2748825/what-is-the-recommended-approach-towards-multi-tenant-databases-in-mongodb)
 - [Clean MongoDB Indexes](https://medium.com/@Philmod/clean-mongodb-indexes-6066daaeb042)
 - [Massive Number of Collections](https://developer.mongodb.com/article/schema-design-anti-pattern-massive-number-collections/)
+- [Collection Migration](https://stackoverflow.com/questions/27039083/mongodb-move-documents-from-one-collection-to-another-collection/41483981#41483981)
 
 #### Repos
 
